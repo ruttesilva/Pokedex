@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    background-color: #a24eba;
+}
+
+#foto-pokemon {
+    max-height: 60vh;
+}
+
+#nome-pokemon {
+    font-size: 2em;
+    text-transform: uppercase;
+}
